@@ -1,7 +1,11 @@
+
+![SynDICA logo](res/logo.png)
+
 # SynDICA - Synchronization of Documents and Information for Correctional Affairs
 
 An innovative document tracking and logistics system designed to enhance efficiency, transparency, and accountability within correctional management.
 
+![sysmem preview](res/demo.png)
 
 ## Table Of Contents
 - [Introduction](#introduction)
