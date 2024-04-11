@@ -1,5 +1,7 @@
 
-![SynDICA logo](res/logo.png)
+<div align="center">
+  <img src="res/logo.png">
+</div>
 
 # SynDICA - Synchronization of Documents and Information for Correctional Affairs
 
